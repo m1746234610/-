@@ -1,0 +1,1 @@
+!function () { "use strict"; console.log(10, { name: "古", age: 12 }); var o = function (o, n) { return o + n }; o(1, 2), o(8, 9), console.log(123), console.log(123456), console.log("小红") }();

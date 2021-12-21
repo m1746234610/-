@@ -1,0 +1,1 @@
+export let name = '小红'
